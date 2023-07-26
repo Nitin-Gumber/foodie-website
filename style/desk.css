@@ -1,0 +1,52 @@
+@media screen and (min-width: 1024px) {
+  .nav-container {
+    width: 100%;
+  }
+
+  .nav-list {
+    font-size: 1.5rem;
+  }
+
+  #brand-logo {
+    font-size: 2rem;
+  }
+
+  .nav-items {
+    gap: 2.2rem;
+    margin-left: -7rem;
+  }
+
+  .btn {
+    margin-left: 1rem;
+  }
+
+  .banner-tittle h1 {
+    font-size: 3.7rem;
+  }
+
+  .search-icons {
+    width: 5.2rem;
+  }
+
+  .search-icons .fa-solid {
+    font-size: 1.7rem;
+  }
+
+  .social-icons .fa-brands {
+    font-size: 1.7rem;
+  }
+
+  .notifications {
+    height: 6.4rem;
+    width: 27rem;
+    background-color: yellow;
+  }
+
+  .contents a {
+    font-size: 1.4rem;
+  }
+
+  .btn-css {
+    font-size: 1.4rem;
+  }
+}

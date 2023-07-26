@@ -1,0 +1,76 @@
+@media screen and (min-width: 767px) and (max-width: 1023px) {
+  .nav-list {
+    font-size: 1rem;
+  }
+
+  .nav-items {
+    gap: 1.8rem;
+    margin-left: -11rem;
+  }
+
+  .nav-list {
+    font-size: 1rem;
+  }
+
+  #brand-logo {
+    font-size: 1.6rem;
+  }
+
+  .banner-tittle h1 {
+    color: white;
+    font-size: 3rem;
+    margin-bottom: 2rem;
+    margin-top: 10rem;
+    width: 28rem;
+    margin-left: 2.5rem;
+  }
+
+  .btn {
+    margin-left: 2.5rem;
+  }
+
+  .search-icons {
+    height: 60%;
+    width: 4rem;
+  }
+
+  .search-icons .fa-solid {
+    display: block;
+    color: #fff;
+    font-size: 1.3rem;
+    cursor: pointer;
+  }
+
+  .social-icons {
+    width: 4rem;
+  }
+
+  .social-icons .fa-brands {
+    font-size: 1.3rem;
+    margin: 0.5rem 0.7rem;
+  }
+
+  .notifications {
+    display: flex;
+    align-items: center;
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 6rem;
+    width: 23rem;
+    background-color: yellow;
+  }
+
+  .contents a {
+    font-size: 1rem;
+    padding: 0.5rem;
+  }
+
+  .btn-css {
+    font-size: 1rem;
+    font-weight: 500;
+    background-color: yellow;
+    padding: 0.4rem 0.9rem;
+    border-radius: 0.3rem;
+  }
+}
