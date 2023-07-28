@@ -15,16 +15,12 @@
 
   .banner-tittle h1 {
     color: white;
-    font-size: 2.7rem;
+    font-size: 2.5rem;
     margin-bottom: 2rem;
     margin-top: 10rem;
     width: 23rem;
     margin-left: -0.8rem;
   }
-
-  /* .btn {
-    margin-left: 8rem;
-  } */
 
   .vertical-bar {
     display: none;

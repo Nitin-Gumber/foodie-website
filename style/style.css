@@ -152,6 +152,7 @@ nav {
 .contents {
   flex-basis: 50%;
   padding: 0.5rem;
+  font-size: 0.9rem;
 }
 
 .notification-img {
